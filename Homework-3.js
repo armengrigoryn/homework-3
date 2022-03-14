@@ -56,3 +56,4 @@ for (let i = lowerNumber; i <= higherNumber; i++) {
         console.log(i);
     }
 }
+// я  если честно не понял как 5ый делать .
