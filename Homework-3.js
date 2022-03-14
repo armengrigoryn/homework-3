@@ -17,7 +17,9 @@ function add(accumulator, a) {
 console.log(sum);
 
 //N3
-
+for(let i = 1; i <= 150; i*= 2){
+    console.log(i)
+}
 
 //N4
 var num=window.prompt();
