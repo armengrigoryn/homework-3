@@ -7,6 +7,10 @@ while(arr[length]!==undefined) {
 length++;
 }
 return length;
+} 
+//1
+function getLenghtOfArray (arr) {
+    return arr.push(arr.pop())
 }
 
 //N2
